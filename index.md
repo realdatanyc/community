@@ -2,6 +2,10 @@
 
 [Catskill, NY](https://www.greatnortherncatskills.com/catskill-ny)
 
+[Bedford-Stuyvesant, Brooklyn (map)](https://www.google.com/maps/place/Bedford+-+Nostrand+Avs/@40.6931355,-73.9568343,16z/data=!4m13!1m7!3m6!1s0x89c25b946167f5df:0x1baa94f35d91bd7e!2s1021+Bedford+Ave,+Brooklyn,+NY+11205!3b1!8m2!3d40.6891074!4d-73.9549125!3m4!1s0x89c25b937d0d4fc1:0x5fdd399ca4226ad8!8m2!3d40.6898534!4d-73.9516398)
+
+[Bed-Stuy walking tour (video)](https://youtu.be/wSF0-6ZsbKo)
+
 You can use the [editor on GitHub](https://github.com/realdatanyc/community/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
